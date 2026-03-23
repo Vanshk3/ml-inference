@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+torch
+torchvision
+Pillow
+numpy
+python-multipart
+httpx
+locust
+streamlit
+plotly
+pandas
+psutil
+requests
+pytest
+pytest-asyncio
