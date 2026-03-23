@@ -45,12 +45,6 @@ Most ML projects stop at training. This one goes further — it wraps the traine
 
 ---
 
-screenshots/swagger.png       ← your Swagger UI showing all endpoints
-screenshots/health.png        ← the /health JSON response  
-screenshots/dashboard.png     ← monitoring dashboard with latency chart
-screenshots/logs.png          ← the request log table
-
----
 
 ## Quickstart
 
