@@ -31,6 +31,15 @@ Most ML projects stop at training. This one goes further — it wraps the traine
 
 ---
 
+## Screenshots
+
+![Swagger UI — all endpoints](screenshots/swagger.png)
+![Health check — model loaded in 72ms](screenshots/health.png)
+![Monitoring dashboard — live latency and prediction distribution](screenshots/dashboard.png)
+![Request logs — every prediction logged with latency](screenshots/logs.png)
+
+---
+
 ## API endpoints
 
 | Method | Endpoint | Description |
